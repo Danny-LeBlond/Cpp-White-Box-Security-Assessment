@@ -13,4 +13,4 @@ The report documents affected code locations, risk levels, and potential fixes f
 
 C++, g++, and an Ubuntu virtual machine.
 
-The report references two CSV input files. Those files are not included in this repository.
+
